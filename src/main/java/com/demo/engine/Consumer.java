@@ -16,6 +16,6 @@ public class Consumer {
 
     @KafkaListener(topics = "users", groupId = "group_id")
     public void consume(User message) throws IOException {
-        logger.info(String.format("#### -> Consumed message -> %s", message.getName()+"-"+message.getAge()));
+        logger.info(String.format("#### -> Consumed message -> %s", message.toString()));
     }
 }
