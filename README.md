@@ -23,3 +23,6 @@ For GUI view you can use Kafka tool\Offset Explorer (https://www.kafkatool.com/d
 ![image](https://user-images.githubusercontent.com/67773113/162332606-263473bb-af89-4166-bd02-6953690cd411.png)
 
 ![image](https://user-images.githubusercontent.com/67773113/162332686-c534bc3f-7a6a-4f0c-8097-90681d038c4c.png)
+
+Documentation
+- https://www.baeldung.com/ops/kafka-docker-setup
